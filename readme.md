@@ -20,9 +20,11 @@ Declare the instance variables for the Clock class.
 
 There should be two instance variables, one to store the current hour, and another to store the current minutes.
 
-What are appropriate names for these instance variables?
+* What are appropriate names for these instance variables?
 
-What data type should these variables be declared as?
+* What data type should these variables be declared as?
+
+The constructor should take two parameters that you use to initialize the instance variables.
 
 Make sure your code compiles.
 
